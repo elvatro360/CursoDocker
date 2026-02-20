@@ -71,7 +71,7 @@ Para recibir tu certificado oficial, debes haber completado:
 │                                                         │
 │                                                         │
 │  [FIRMA DIGITAL]                                       │
-│  GitHub Copilot CLI - Docker Security Course         │
+│  Docker Security Course                                │
 │                                                         │
 │  Verificación: https://ejemplo.com/verify/[CÓDIGO]   │
 │                                                         │
@@ -159,7 +159,7 @@ Crea `REFLEXION_FINAL.md`:
 - Twitter/X
 
 # Mensaje sugerido:
-"Completé el Docker Security Course de @GitHubCopilot 🐳
+"Completé el Docker Security Course 🐳
 Aprendí a crear contenedores seguros desde cero.
 Proyecto final: [Descripción]
 #Docker #DevSecOps #Learning"
@@ -231,20 +231,19 @@ Nivel 5: Especialista en contenedores
 ```
 CERTIFICACIONES:
 - Docker Security Course (Beginner Edition)
-  GitHub Copilot CLI | 2026
+  2026
   Competencias: Docker, Docker Compose, Security
 ```
 
 ### En LinkedIn:
 - Añade a "Licencias y certificaciones"
-- Etiqueta a GitHub Copilot
 - Comparte el proyecto final
 
 ### En Tu Portfolio:
 ```html
 <certification>
   <title>Docker Security Course</title>
-  <issuer>GitHub Copilot CLI</issuer>
+  <issuer>Docker Security Course</issuer>
   <date>2026-02-20</date>
   <link>Tu proyecto</link>
 </certification>
