@@ -142,7 +142,7 @@ Imagina que Docker es como una **caja mágica** donde metes tu aplicación con t
 
 ## 🚀 ¡Comienza Tu Viaje en Docker!
 
-### [📍 Ir a PRIMEROS_PASOS.md →](./PRIMEROS_PASOS.md)
+### [📍 Ir a PRIMEROS_PASOS.md →](CursoDocker/PRIMEROS_PASOS.md)
 
 ---
 
