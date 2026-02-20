@@ -259,7 +259,7 @@ docker run secure-app ls -l /app
 
 ## 🚀 Próximo: Redes Seguras
 
-[→ Continuar](./MODULO_3_IMAGENES_SEGURAS/README.md)
+[→ Continuar](../MODULO_3_IMAGENES_SEGURAS/README.md)
 
 
 ---
